@@ -1,2 +1,2 @@
 # angryBirdsStage2StudentActivity
-Student Activity Link for Angry Birds Stage 2
+Output Link-https://arnavsaxena10.github.io/Angry-Bird-C-25/
